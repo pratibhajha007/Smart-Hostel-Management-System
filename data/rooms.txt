@@ -1,0 +1,5 @@
+Room Number: 209
+Capacity: 3
+Occupied: 1
+Available Beds: 2
+-------------------------

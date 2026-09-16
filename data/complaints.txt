@@ -1,0 +1,5 @@
+Complaint ID: 302
+Student ID: 101
+Description: Fan Not working.
+Status: Pending
+-------------------------

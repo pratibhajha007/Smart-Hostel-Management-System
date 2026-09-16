@@ -1,0 +1,6 @@
+Student ID: 101
+Name: Pratibha
+Phone: 76324876856
+Course: CSE
+Room: 209
+-------------------------
